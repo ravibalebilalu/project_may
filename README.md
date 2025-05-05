@@ -1,4 +1,9 @@
-# MAY PROJECT
+# PROJECT MAY 
+
+End to end copy of [Krishnaik Tutorial on ML project](https://youtu.be/MJ1vWb1rGwM?si=isg2CiTdtrzI_R8j) ,deployment not included.
+
+#### 🤔 why 'project may' ?
+#### it is created at starting of may month! 😇
 ### Predicts House prices!
 
 ## SOFTWARES AND TOOLS
@@ -19,4 +24,10 @@ python3 -m venv .venv
 
 ```
  source .venv/bin/activate
+```
+
+* runnung App
+
+```
+python app.py
 ```
